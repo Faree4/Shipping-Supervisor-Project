@@ -12,3 +12,16 @@ Efficient shipping operations are critical for maintaining the quality and fresh
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/Shipping-Supervisor-Project.git
+   cd Shipping-Supervisor-Project
+npm install
+npm start
+Where to Get Help
+For support, please contact the project maintainer at Dj1922@yahoo.com You can also open an issue in the GitHub repository.
+
+Who Maintains and Contributes to the Project
+This project is maintained by Faree4. Contributions are welcome! To contribute:
+   git init
+git remote add origin https://github.com/YourUsername/Shipping-Supervisor-Project.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
